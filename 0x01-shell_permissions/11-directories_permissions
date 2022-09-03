@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R -f 777 ./
+sudo chmod -R -f 777 .
